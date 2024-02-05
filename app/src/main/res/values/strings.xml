@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CulinaryCanvas</string>
+    <string name="api_key"> 80097e7343c040b2a852a140c581f94f</string>
+    <string-array name="tags">
+        <item>main course</item>
+        <item>bread</item>
+        <item>marinade</item>
+        <item>side dish</item>
+        <item>breakfast</item>
+        <item>fingerfood</item>
+        <item>dessert</item>
+        <item>soup</item>
+        <item>snack</item>
+        <item>appetizer</item>
+        <item>beverage</item>
+        <item>drink</item>
+        <item>salad</item>
+        <item>sauce</item>
+    </string-array>
+</resources>
+
